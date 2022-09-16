@@ -1,6 +1,6 @@
 # FIFA WORLD CUP 2022 PREDICTIONS
 
-This is a ML Model to predict the upcoming FIFA WORLD CUP 2022 PREDICTIONS.
+This is a ML Model to predict the upcoming FIFA WORLD CUP 2022.
 
 This model has an accuracy around 75% in Knockout stages.
 
