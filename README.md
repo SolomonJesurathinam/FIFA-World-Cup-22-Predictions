@@ -1,4 +1,4 @@
-# Fifa-Wold-Cup-22-Predictions
+# FIFA WORLD CUP 2022 PREDICTIONS
 
 This is a ML Model to predict the upcoming FIFA WORLD CUP 2022 PREDICTIONS.
 
